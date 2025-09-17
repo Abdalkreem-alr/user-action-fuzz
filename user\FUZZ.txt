@@ -1,4 +1,4 @@
-DetailedInfo 
+DetailedInfo
 DetailInfo 
 DetailList
 userInfo
