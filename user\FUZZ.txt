@@ -1,6 +1,7 @@
 DetailedInfo
 DetailInfo 
 DetailList
+list
 userInfo
 Users
 User
